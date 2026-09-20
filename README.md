@@ -1,5 +1,5 @@
 # arduino-rc-car
-2026-1 발명 동아리 Arduino 기반 RC카 제작 프로젝트
+2026-1 발명 동아리 Arduino 기반 RC카 제작 팀프로젝트
 
 ---
 
